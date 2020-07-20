@@ -1,2 +1,1 @@
-FROM gcr.io/google_containers/kube-scheduler-amd64:v1.18.6                                                                  
-MAINTAINER dicklee2002
+FROM gcr.io/google_containers/kube-scheduler-amd64:v1.18.6
