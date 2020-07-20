@@ -1,2 +1,1 @@
-FROM gcr.io/google_containers/etcd:3.4.3-0                                                                 
-MAINTAINER dicklee2002
+FROM gcr.io/google_containers/etcd:3.4.3-0
